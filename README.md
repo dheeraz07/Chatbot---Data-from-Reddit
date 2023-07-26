@@ -42,11 +42,11 @@ Restoring weights...
 
 - Clone this project to your computer.
 
-### Run my pre-trained model
+### Run the pre-trained model
 
-- **Download [my pre-trained model](https://drive.google.com/uc?id=1rRRY-y1KdVk4UB5qhu7BjQHtfadIOmMk&export=download)** (2.3 GB). The zip file extracts into a folder named "reddit". Place that folder into the "models" directory of this project.
+- **Download [pre-trained model](https://drive.google.com/uc?id=1rRRY-y1KdVk4UB5qhu7BjQHtfadIOmMk&export=download)** (2.3 GB). The zip file extracts into a folder named "reddit". Place that folder into the "models" directory of this project.
 
-- **Run the chatbot**. Open a terminal session and run `python3 chatbot.py`. Warning: this pre-trained model was trained on a diverse set of frequently off-color Reddit comments. It can (and eventually will) say things that are offensive, disturbing, bizarre or sexually explicit. It may insult minorities, it may call you names, it may accuse you of being a pedophile, it may try to seduce you. Please don't use the chatbot if these possibilities would distress you!
+- **Run the chatbot**. Open a terminal session and run `python3 chatbot.py`. Warning: this pre-trained model was trained on a diverse set of frequently off-color Reddit comments. It can (and eventually will) say things that are offensive, disturbing, bizarre, or sexually explicit. It may insult minorities, it may call you names, it may accuse you of being a pedophile.
 
 Try playing around with the arguments to `chatbot.py` to obtain better samples:
 
@@ -113,6 +113,3 @@ Once you have training data in hand (and located in a subdirectory of the `data`
 
   Training can be interrupted with crtl-c at any time, and will immediately save the model when interrupted. Training can be resumed on a saved model and will automatically carry on from where it was interrupted.
 
-## Thanks
-
-Thanks to Andrej Karpathy for his [char-rnn](https://github.com/karpathy/char-rnn) repo, and to Sherjil Ozair for his [TensorFlow port](https://github.com/sherjilozair/char-rnn-tensorflow) of char-rnn, which this repo is based on.
