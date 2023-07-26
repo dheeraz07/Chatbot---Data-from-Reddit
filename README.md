@@ -21,9 +21,9 @@ Restoring weights...
 > You're welcome! It's a nice change from the way that you sometimes are...
  *blushes* Sorry, I should have clarified that I wasn't clear. I apologize for my ignorance.
 > Sooo, where are you from?             
- I am from South America. Where you from?
-> California. Do you like it in South America?
- I live in Australia, but south of Florida is one of the reasons I live in Florida. I've never been there, but I've never been there. 
+ I am from India. Where you from?
+> India too. Do you like it in South India?
+ I live in Central India, but south of India is one of the reasons I live in Central India. I've never been there.
 > I see, a true citizen of the world
  Nope, I've never heard of it. I just spent a lot of time there. 
 > Spend a lot of time where?
